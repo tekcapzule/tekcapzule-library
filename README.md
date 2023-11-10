@@ -1,21 +1,21 @@
 <!-- PROJECT SHIELDS -->
 <a name="readme-top"></a>
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
-[![Main Branch](https://github.com/tekcapsule/tekcapsule-library/actions/workflows/cicd.yml/badge.svg)](https://github.com/tekcapsule/tekcapsule-library/actions/workflows/cicd.yml) 
-[![Github all releases](https://img.shields.io/github/downloads/tekcapsule/tekcapsule-library/total.svg)](https://GitHub.com/tekcapsule/tekcapsule-library/releases/)
+[![Main Branch](https://github.com/tekcapzule/tekcapzule-library/actions/workflows/cicd.yml/badge.svg)](https://github.com/tekcapzule/tekcapzule-library/actions/workflows/cicd.yml) 
+[![Github all releases](https://img.shields.io/github/downloads/tekcapzule/tekcapzule-library/total.svg)](https://GitHub.com/tekcapzule/tekcapzule-library/releases/)
 
 
 <!-- PROJECT LOGO -->
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/9839481/209770761-99fd940f-3c75-407b-a339-9fd2cd2c5b7f.svg">
-  <h3 align="center">TekCapsule Library</h3>
+  <h3 align="center">TekCapzule Library</h3>
   <p align="center">
     Images and other creative artifacts
     <br />
-    <a href="https://www.tekcapsule.com/">View Demo</a> |
-    <a href="https://github.com/tekcapsule/tekcapsule-library/issues">Report Bug</a> |
-    <a href="https://github.com/tekcapsule/tekcapsule-library/issues">Request Feature</a>
+    <a href="https://www.tekcapzule.com/">View Demo</a> |
+    <a href="https://github.com/tekcapzule/tekcapzule-library/issues">Report Bug</a> |
+    <a href="https://github.com/tekcapzule/tekcapzule-library/issues">Request Feature</a>
   </p>
 </div>
 <div align="center">
@@ -52,14 +52,14 @@
 
 ## About The Project
 
-This repository contains Articles and other resources published in TekCapsule Platform. A CICD pipeline is setup to publish these artifacts to AWS S3 bucket.
+This repository contains Articles and other resources published in TekCapzule Platform. A CICD pipeline is setup to publish these artifacts to AWS S3 bucket.
 
 **Image Location:-**
 
-* Images for Topic - https://library.tekcapsule.com/Article/[Topic-Code]/[Capsule-Id].html
+* Images for Topic - https://library.tekcapzule.com/Article/[Topic-Code]/[Capsule-Id].html
 
 **Eg:** 
-* Images for Topic - https://library.tekcapsule.com/Article/AIM/[Capsule-Id].html
+* Images for Topic - https://library.tekcapzule.com/Article/AIM/[Capsule-Id].html
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -84,7 +84,7 @@ This project requires following softwares:
 Please follow the step by step instructions to install the required softwares and setup the project.
 1. Clone the repo
    ```sh
-   git clone https://github.com/tekcapsule/tekcapsule-library.git
+   git clone https://github.com/tekcapzule/tekcapzule-library.git
    ```
    
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -93,7 +93,7 @@ Please follow the step by step instructions to install the required softwares an
 <!-- ROADMAP -->
 ## Roadmap
 
-See the [open issues](https://github.com/tekcapsule/tekcapsule-library/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/tekcapzule/tekcapzule-library/issues) for a list of proposed features (and known issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -112,7 +112,7 @@ Don't forget to give the project a star! Thanks again!
 5. Open a Pull Request
 
 ## Contributors
-<img src= "https://contrib.rocks/image?repo=tekcapsule/tekcapsule-graphics">
+<img src= "https://contrib.rocks/image?repo=tekcapzule/tekcapzule-graphics">
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
